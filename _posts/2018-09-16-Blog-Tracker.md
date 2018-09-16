@@ -2,7 +2,7 @@
 title: Blog Tracker 9/9/18 
 layout: post 
 author: ashvin.bajpai 
-permalink: /blog-tracker-9/9/18/ 
+permalink: /blog-tracker-9-9-18 
 source-id: 1ukfI4caDdB4HhrC0w-O5-kZVdY2WfuyckXG8J0WWSu8
 published: true
 ---
